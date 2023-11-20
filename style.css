@@ -1,28 +1,9 @@
-header {
-    grid-area: header;
-    background-color: aqua;
+span{
+    color: darkgreen;
 }
-
-.sidebar {
-    grid-area: sidebar;
-    background-color: coral;
+h3{
+    color: blueviolet;
 }
-
-.content {
-    grid-area: content;
-    background-color: darkblue;
-}
-
-footer {
-    grid-area: footer;
-    background-color: darkolivegreen;
-}
-
-.container {
-    display: grid;
-    grid-template-columns: repeat(4,1fr);
-    grid-template-areas:
-        "header header header header"
-        "sidebar content content content"
-        "sidebar footer footer footer";
+#parrafoosss{
+    color: salmon;
 }
