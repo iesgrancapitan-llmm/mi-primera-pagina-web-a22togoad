@@ -4,6 +4,7 @@
 - [HTML Semántico](HTMLsemantico/README.md)
 - [Listas](Listas/README.md)
 - [Horario](horarioclase/index.html)
+- [Formularios](Formularios/README.md)
 
 ## Visual Studio Code
 Utiliza Visual Studio Code. Debes prepararlo con las extensiones necesarias para el trabajo con html. Para visualizarlo en el navegador o directamente en el Visual Studio Code: 
