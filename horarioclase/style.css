@@ -1,55 +1,58 @@
-/* style.css */
-
 body {
     font-family: Arial, sans-serif;
-    background-color: gray; 
+    background-color: gray;
 }
 
 h1 {
     color: white;
 }
-table {
+
+.horario {
+    display: grid;
+    grid-template-columns: auto repeat(5, 1fr);
+    grid-template-rows: repeat(8, auto);
+    gap: 1px;
     width: 100%;
     border: 4px solid palevioletred;
-    border-collapse: collapse;
     margin-top: 20px;
 }
 
-th, td {
+div {
     border: 1px solid #ddd;
     padding: 8px;
     text-align: center;
 }
 
-th {
+.recreo {
+    background-color: #e6e6e6;
+    grid-column: span 5;
+}
+
+.asignatura {
     background-color: #4CAF50;
     color: white;
 }
 
-td.SI {
-    background-color: #ffcc00; 
+.asignatura.SI {
+    background-color: #ffcc00;
 }
 
-td.LLMM {
-    background-color: #66ccff; 
+.asignatura.LLMM {
+    background-color: #66ccff;
 }
 
-td.EEDD {
-    background-color: #ff6666; 
+.asignatura.EEDD {
+    background-color: #ff6666;
 }
 
-td.FOL {
-    background-color: #99ff99; 
+.asignatura.FOL {
+    background-color: #99ff99;
 }
 
-td.PROG {
+.asignatura.PROG {
     background-color: #ff9933;
 }
 
-td.BBDD {
-    background-color: #cc99ff; 
-}
-
-td.RECREO {
-    background-color: #e6e6e6; 
+.asignatura.BBDD {
+    background-color: #cc99ff;
 }
