@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+ xml:lang="es"
+ xml:base="http://www.ejemplo.org">
+    <title>Noticias</title>
+    <category term="variety"/>
+    <link href="http://ejemplo.org/"/>
+    <updated>2020-12-13T18:30:02Z</updated>
+    <author>
+    <name>Adrián Torres Gómez</name>
+    </author>
+    <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id> 
+    
+    <entry>
+    <title>Diez muertos en un tiroteo en Monterey Park</title>       
+    <link href="https://www.rtve.es/noticias/20230122/tiroteo-monterey-park/2416889.shtml"/>
+    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+    <updated>2020-12-13T18:30:02Z</updated>
+    <summary>Al menos diez muertos en un tiroteo en un local en Monterey Park, cerca de Los Ángeles</summary>
+    </entry>
+    
+    <entry>
+    <title>Código HTML</title>       
+    <link href="https://github.com/a22togoad/sindicaciondecontenidos/blob/main/index.html"/>
+    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6b</id>
+    <updated>2020-12-13T18:30:02Z</updated>
+    <summary>Este enlace te llevara a un código HTML</summary>
+    </entry>
+
+    <entry>
+    <title>Archivo PDF</title>       
+    <link href="https://github.com/a22togoad/sindicaciondecontenidos/blob/main/Sindicaci%C3%B3n%20de%20contenidos.pdf"/>
+    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6d</id>
+    <updated>2020-12-13T18:30:02Z</updated>
+    <summary>Este enlace te llevará a un archivo PDF de la Sindicación de contenidos</summary>
+    </entry>
+
+    <entry>
+    <title>Archivo multimedia</title>       
+    <link href="https://www.youtube.com/watch?v=Ubod4WZoAfU"/>
+    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6c</id>
+    <updated>2020-12-13T18:30:02Z</updated>
+    <summary>El siguiente enlace te llevará a un video de youtube sobre la sindicación de contenidos</summary>
+    </entry>
+</feed>

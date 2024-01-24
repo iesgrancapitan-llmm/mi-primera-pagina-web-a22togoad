@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Bienvenidos a mi GitHub Pages</title>
+        <link>https://potential-adventure-o4qrok9.pages.github.io/</link>
+        <description>En esta página encontrarás los diversos contenidos que hemos ido realizando en LLMM durante el presente curso 2023-2024</description>
+        <copyright>Adrián Torres Gómez - Todos los derechos reservados</copyright>
+        <category>Información</category>
+        <webMaster>ad22togoad@iesgrancapitan.org (Adrián Torres Gómez)</webMaster>
+        <pubDate>Tue, 23 Jan 2024 09:15:44 GMT</pubDate>
+        <language>ES-es</language>
+        <item>
+            <title>Alcaraz, condenado a jugar en el horario que menos le gusta del Open de Australia</title>
+            <link>https://www.mundodeportivo.com/tenis/open-australia/20240123/1002175527/alcaraz-jugara-zverev-horario-le-gusta-open-australia.html</link>
+            <description>Carlos Alcaraz disputará este miércoles su primer partido de cuartos de final en un Open de Australia</description>
+            <author>ad22togoad@iesgrancapitan.org (Adrián Torres Gómez)</author>
+            <pubDate>Tue, 23 Jan 2024 09:15:44 GMT</pubDate>
+            <guid>https://www.mundodeportivo.com/tenis/open-australia/20240123/1002175527/alcaraz-jugara-zverev-horario-le-gusta-open-australia.html</guid>
+            <enclosure url="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2024/01/23/65af5277122e7.r_d.1500-1000-3160.jpeg"
+            length="12345"
+            type="image/jpeg" />
+        </item>
+        <item>
+            <title>Ya puedes instalar la nueva función de Apple que evitará que te roben el iPhone</title>
+            <link>https://www.20minutos.es/tecnologia/aplicaciones/como-instalar-actualizacion-ios-17-3-iphone-apple-5211535/</link>
+            <description>La nueva función de protección en caso de robo del dispositivo aumenta la seguridad del iPhone y del ID de Apple, de esta manera, se evita que los ladrones puedan acceder al móvil.</description>
+            <author>ad22togoad@iesgrancapitan.org (Adrián Torres Gómez)</author>
+            <pubDate>Tue, 23 Jan 2024 09:15:44 GMT</pubDate>
+            <guid>https://www.20minutos.es/tecnologia/aplicaciones/como-instalar-actualizacion-ios-17-3-iphone-apple-5211535/</guid>
+            <enclosure url="https://imagenes.20minutos.es/files/image_640_360/uploads/imagenes/2024/01/23/ios-17-3.jpeg"
+            length="12345"
+            type="image/jpeg" />
+        </item>
+        <item>
+            <title>Israel anuncia la muerte de al menos 21 soldados en Gaza en el día más letal para sus tropas</title>
+            <link>https://www.elmundo.es/internacional/2024/01/23/65af5fd8fdddffbf368b4582.html</link>
+            <description>Dos edificios con explosivos se derrumbaron sobre ellos en el centro de la Franja</description>
+            <author>ad22togoad@iesgrancapitan.org (Adrián Torres Gómez)</author>
+            <pubDate>Tue, 23 Jan 2024 09:15:44 GMT</pubDate>
+            <guid>https://www.elmundo.es/internacional/2024/01/23/65af5fd8fdddffbf368b4582.html</guid>
+            <enclosure url="https://phantom-elmundo.unidadeditorial.es/9b637f6ac4d5b25d95f6da2b6263bbe4/resize/920/f/webp/assets/multimedia/imagenes/2024/01/23/17059924298063.jpg"
+            length="12345"
+            type="image/jpg" />
+        </item>
+        <item>
+            <title>La RAE evaluará "con urgencia" una posible corrección en el diccionario de la palabra 'disminuido'</title>
+            <link>https://www.20minutos.es/noticia/5211530/0/rae-evaluara-con-urgencia-una-posible-correccion-diccionario-palabra-disminuido/</link>
+            <description>La RAE mantiene 'disminuido' en el diccionario como sinónimo de 'discapacitado' y 'minusválido'.</description>
+            <author>ad22togoad@iesgrancapitan.org (Adrián Torres Gómez)</author>
+            <pubDate>Tue, 23 Jan 2024 09:15:44 GMT</pubDate>      
+            <guid>https://www.20minutos.es/noticia/5211530/0/rae-evaluara-con-urgencia-una-posible-correccion-diccionario-palabra-disminuido/</guid>
+            <enclosure url="https://imagenes.20minutos.es/files/image_640_360/uploads/imagenes/2024/01/23/la-rae-evaluara-con-urgencia-una-posible-correccion-en-el-diccionario-de-la-palabra-disminuido.jpeg"
+            length="12345"
+            type="image/jpeg" />
+        </item>
+    </channel>
+</rss>
